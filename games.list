@@ -32,3 +32,8 @@ IP-CIDR,47.100.127.239/32,no-resolve
 IP-CIDR,59.111.128.0/17,no-resolve
 IP-CIDR,59.111.19.33/32,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
+
+# 多邻国
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+
