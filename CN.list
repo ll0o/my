@@ -21,9 +21,3 @@ DOMAIN-SUFFIX,toutiao.com
 # 多邻国
 DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,duolingo.com
-
-# Adobe
-DOMAIN-SUFFIX,adobe.io
-DOMAIN-SUFFIX,adobe.com
-DOMAIN-SUFFIX,adobelogin.com
-DOMAIN-SUFFIX,adobestats.io
