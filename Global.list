@@ -9,7 +9,6 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 31410
-DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api-p.videomarket.jp
@@ -69,10 +68,6 @@ DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.ntp-servers.net
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ood.opsource.net
-DOMAIN,practivate.adobe
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,qualcomm.sc.omtrdc.net
@@ -25216,7 +25211,6 @@ DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,addictedtocoffee.de
 DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,adguard.org
-DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adpl.org.hk
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adtidy.org
