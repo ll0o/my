@@ -31,4 +31,3 @@ DOMAIN-SUFFIX,ka.kaduoduohk.com
 
 # sms-endless
 DOMAIN-SUFFIX,www.sms-endless.com
-IP-CIDR,21.14.3.61/32,no-resolve1
