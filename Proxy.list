@@ -6246,6 +6246,17 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+
+#  弹弹堂
+DOMAIN-SUFFIX,data-ingestion.dp.vng.com.vn
+DOMAIN-SUFFIX,login-gnotwmy.vnggames.net
+DOMAIN-SUFFIX,graph.facebook.com
+DOMAIN-SUFFIX,android.googleapis.com
+DOMAIN-SUFFIX,pp.vngcorp.mobi
+DOMAIN-SUFFIX,sg-upload-log.wan.com
+DOMAIN-SUFFIX,gnovn-code.ddtank.vnggames.tw
+DOMAIN-SUFFIX,check-latency.mto.zing.vn
+
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
