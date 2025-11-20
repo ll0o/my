@@ -6256,6 +6256,7 @@ DOMAIN-SUFFIX,pp.vngcorp.mobi
 DOMAIN-SUFFIX,sg-upload-log.wan.com
 DOMAIN-SUFFIX,gnovn-code.ddtank.vnggames.tw
 DOMAIN-SUFFIX,check-latency.mto.zing.vn
+DOMAIN-SUFFIX,gnotw-loginserver.ddtank.vnggames.tw
 
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve
