@@ -623,6 +623,7 @@ DOMAIN-SUFFIX,endless.com
 
 # 蜂窝云手机
 DOMAIN-SUFFIX,www.fwysj.com
+DOMAIN-SUFFIX,app.upay.ink
 
 # element
 DOMAIN-SUFFIX,chat.sms-endless.ink
