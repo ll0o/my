@@ -39,3 +39,7 @@ DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
+
+# Designer
+DOMAIN-SUFFIX,designerapp.officeapps.live.com
+DOMAIN-SUFFIX,designer.microsoft.com
