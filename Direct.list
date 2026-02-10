@@ -632,3 +632,8 @@ DOMAIN-SUFFIX,meet.element.io
 DOMAIN-SUFFIX,telemetry.transcend.io
 DOMAIN-SUFFIX,um.sms-endless.ink
 DOMAIN-SUFFIX,app.element.io
+
+# BYBIT
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,api3.bybit.biz
+DOMAIN-SUFFIX,api3.bybdc6.com
