@@ -9,6 +9,7 @@
 
 # Grok
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,accounts.x.ai
 
 # adobe
 DOMAIN-SUFFIX,express.adobe.com
