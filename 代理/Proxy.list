@@ -6257,6 +6257,15 @@ DOMAIN-SUFFIX,gnovn-code.ddtank.vnggames.tw
 DOMAIN-SUFFIX,check-latency.mto.zing.vn
 DOMAIN-SUFFIX,gnotw-loginserver.ddtank.vnggames.tw
 
+#四方
+DOMAIN-SUFFIX,sms-szfang.com
+
+#光遇
+DOMAIN-SUFFIX,thatskygame.com
+DOMAIN-SUFFIX,thatgamecompany.com
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,starwatch.ai
+
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
