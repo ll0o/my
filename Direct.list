@@ -633,6 +633,6 @@ DOMAIN-SUFFIX,telemetry.transcend.io
 DOMAIN-SUFFIX,um.sms-endless.ink
 DOMAIN-SUFFIX,app.element.io
 
-
-
+# claw
+DOMAIN-SUFFIX,clawapi.vip
 
