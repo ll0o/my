@@ -640,3 +640,6 @@ DOMAIN-SUFFIX,bf6-eventbridge.ops.dice.se
 # claw
 DOMAIN-SUFFIX,clawapi.vip
 
+# 光氪
+DOMAIN-SUFFIX,app.grunkr.com
+
