@@ -609,7 +609,10 @@ payload:
   - DOMAIN-SUFFIX,ka.kaduoduohk.com
 
 # endless
+  - DOMAIN-SUFFIX,endless.ink
   - DOMAIN-SUFFIX,endless.com
+  - DOMAIN-SUFFIX,sms-endless.com
+  - DOMAIN-SUFFIX,um.sms-endless.ink
 
 # 蜂窝云手机
   - DOMAIN-SUFFIX,www.fwysj.com
