@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,express.adobe.com
 DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai
