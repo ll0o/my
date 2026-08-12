@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 
 # perplexity
 DOMAIN-SUFFIX,perplexity.ai
+
+# 1minai
+DOMAIN-SUFFIX,app.1min.ai
